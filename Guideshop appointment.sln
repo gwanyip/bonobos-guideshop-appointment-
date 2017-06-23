@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guideshop appointment", "Guideshop appointment.csproj", "{5C117571-F95E-0BC0-53DA-FB0634382D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guideshop appointment.Editor", "Guideshop appointment.Editor.csproj", "{D1F0BD2A-993D-E2FE-A35F-610007AF4592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C117571-F95E-0BC0-53DA-FB0634382D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C117571-F95E-0BC0-53DA-FB0634382D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C117571-F95E-0BC0-53DA-FB0634382D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C117571-F95E-0BC0-53DA-FB0634382D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F0BD2A-993D-E2FE-A35F-610007AF4592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F0BD2A-993D-E2FE-A35F-610007AF4592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F0BD2A-993D-E2FE-A35F-610007AF4592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F0BD2A-993D-E2FE-A35F-610007AF4592}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
